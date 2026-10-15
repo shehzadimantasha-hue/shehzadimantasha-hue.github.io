@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(0, 71, 71);
+    margin: 10px;
+
+}
+
+.name{
+    color: white;
+    font-size: 20px;
+}
+
+.about{
+    font-size: 20px;
+}
+
+.software{
+    margin-left: 20px;
+}
+
+.education{
+    color: red;
+    font-size: 20px;
+}
+
+.matric{
+    margin-left: 30px;
+    color:green;
+}
+
+.skills{
+    font-size: 40px;
+}
+
+.ccc{
+    margin-left: 30px;
+    color: chocolate;
+}
+
+#project{
+    color: blueviolet;
+    font-size: 30px;
+
+}
+
+#ppp{
+    margin-left: 20px;
+    color: blanchedalmond;
+}
